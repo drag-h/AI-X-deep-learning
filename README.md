@@ -4,7 +4,7 @@
 ---
 
 강화학습 기반 물류창고 로봇 경로 최적화
-목차
+
 - [I. Proposal](posts/proposal.md)
 - [II. Datasets](posts/datasets.md)
 - [III. Methodology](posts/methodology.md)
