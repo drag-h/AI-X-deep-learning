@@ -1,7 +1,6 @@
 # AI-X-deep-learning
 ---
-layout: home
-title: "AI+X Deep Learning 프로젝트"
+"AI+X Deep Learning 프로젝트"
 ---
 
 강화학습 기반 물류창고 로봇 경로 최적화
