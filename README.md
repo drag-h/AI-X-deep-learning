@@ -386,7 +386,8 @@ with torch.no_grad():
   ```bash
   python run_policy.py  # 정책 평가 및 GUI 시연
   ```
-
+![image](https://github.com/user-attachments/assets/41fae9df-7261-4a98-a468-2c09b8499254)
+---
 * **환경 설정 예시**:
 
   ```bash
