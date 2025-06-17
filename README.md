@@ -38,7 +38,7 @@
 
 * **훈련 환경 (기본 환경)**
 
-  * grid\_size = 10
+  * grid\_size = 5
   * obstacle\_ratio = 0.2
 
 * **테스트 환경**
